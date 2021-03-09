@@ -296,7 +296,6 @@ public class GamePlay extends JPanel implements KeyListener,ActionListener{
 	}
 	@Override
 	public void keyReleased(KeyEvent e) {
-		// TODO Auto-generated method stub
 		
 	}
 }
